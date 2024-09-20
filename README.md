@@ -1,5 +1,5 @@
 # Yuichi Toyoyama 豊山 祐一
-組込みエンジニア / INIAD 講師 & cHub特別研究員
+組込みエンジニア / INIAD 講師 & cHub特任研究員
 ## SNS
 [Facebook/u1toyo](https://www.facebook.com/u1toyo/)  
 [Twitter/@u1_oyo_a](https://twitter.com/u1_oyo_a)  
