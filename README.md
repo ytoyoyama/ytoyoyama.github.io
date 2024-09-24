@@ -8,7 +8,7 @@
 - [Try Kernel](https://github.com/ytoyoyama/trykernel)　超軽量リアルタイムOS ソースコード
 - *Try Kernel-A (準備中)*　AMP版 Try Kernel ソースコード
 - *Try Kernel-S (準備中)*　SMP版 Try Kernel ソースコード
-- *Interface 2024年11月号 特集「ゼロから作るマルチコアOS」配布プログラム (準備中)*
+- [Interface 2024年11月号 特集「ゼロから作るマルチコアOS」配布プログラム](https://github.com/ytoyoyama/interface_trykernel_2)
 - [Interface 2023年7月号 特集「ゼロから作るOS」配布プログラム](https://github.com/ytoyoyama/interface_trykernel)
 
 
