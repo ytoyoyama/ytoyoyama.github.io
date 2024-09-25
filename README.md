@@ -5,7 +5,7 @@
 [Twitter/@u1_oyo_a](https://twitter.com/u1_oyo_a)  
 
 ## GitHub Repositories
-- [Try Kernel](https://github.com/ytoyoyama/trykernel)　超軽量リアルタイムOS ソースコード
+- [Try Kernel](https://github.com/ytoyoyama/trykernel)　超軽量リアルタイムOS ソースコード (2.0は準備中)
 - *Try Kernel-A (準備中)*　AMP版 Try Kernel ソースコード
 - *Try Kernel-S (準備中)*　SMP版 Try Kernel ソースコード
 - [Interface 2024年11月号 特集「ゼロから作るマルチコアOS」配布プログラム](https://github.com/ytoyoyama/interface_trykernel_2)
